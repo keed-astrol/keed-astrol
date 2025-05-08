@@ -25,8 +25,16 @@
 ### 📫 How to reach me:
 - 📧 Email: [juastonekyule@gmail.com](mailto:juastonekyule@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/musindi-kyule-juastone-astro)
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="musindi-kyule-juastone-astro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/musindi-kyule-juastone-astro?trk=profile-badge">Musindi Kyule</a></div>
-              
+-<p align="center">
+  <!-- LinkedIn Badge -->
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="musindi-kyule-juastone-astro" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/musindi-kyule-juastone-astro?trk=profile-badge">Musindi Kyule</a>
+  </div>
+</p>
+
+<!-- LinkedIn Badge Script (Required) -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 ### 😄 Pronouns:
 - He/Him
