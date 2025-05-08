@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm keed_astro (@keed-astrol)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F7A41D&center=true&vCenter=true&width=780&lines=👨‍💻+Electrical+%26+Computer+Engineering+Student;🌍+From+Kenya%2C+based+in+Philly;🎭+Poet+%7C+Actor+%7C+AI+Enthusiast;🎶+Afrobeats+%7C+Hans+Zimmer+%7C+Eminem;🧹+Tidy+%7C+Early+Riser+%7C+Deep+Thinker;👨‍💻+Electronics+Hobbyist+%7C+Arduino+%7C+ESP+%7C+Jetson+Nano;⚙️+Control+Systems+%7C+Embedded+Systems" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=0000FF&center=true&vCenter=true&width=780&lines=👨‍💻+Electrical+%26+Computer+Engineering+Student;🌍+From+Kenya%2C+based+in+Philly;🎭+Poet+%7C+Actor+%7C+AI+Enthusiast;🎶+Afrobeats+%7C+Hans+Zimmer+%7C+Eminem;🧹+Tidy+%7C+Early+Riser+%7C+Deep+Thinker;👨‍💻+Electronics+Hobbyist+%7C+Arduino+%7C+ESP+%7C+Jetson+Nano;⚙️+Control+Systems+%7C+Embedded+Systems" alt="Typing SVG Animation" />
 </p>
 
 
