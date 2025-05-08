@@ -25,15 +25,6 @@
 ### 📫 How to reach me:
 - 📧 Email: [juastonekyule@gmail.com](mailto:juastonekyule@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/musindi-kyule-juastone-astro)
--<p align="center">
-  <!-- LinkedIn Badge -->
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="musindi-kyule-juastone-astro" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/musindi-kyule-juastone-astro?trk=profile-badge">Musindi Kyule</a>
-  </div>
-</p>
-
-<!-- LinkedIn Badge Script (Required) -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
 ### 😄 Pronouns:
@@ -57,7 +48,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -70,7 +60,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31oiz77vdaazaa4yx5wwckv4zg4e?si=6aa27ac425294a21">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oiz77vdaazaa4yx5wwckv4zg4e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31oiz77vdaazaa4yx5wwckv4zg4e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31oiz77vdaazaa4yx5wwckv4zg4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)" />
   </a>
 </p>
 
