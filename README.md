@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Kyule Musindi (@keed-astrol)</h1>
+<h1 align="center">Hey there 👋, I'm keed_astro (@keed-astrol)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=👨‍💻+Electrical+%26+Computer+Engineering+Student;🌍+From+Kenya%2C+based+in+Philly;🎭+Poet+%7C+Actor+%7C+AI+Enthusiast;🎶+Afrobeats+%7C+Hans+Zimmer+%7C+Eminem;🧹+Tidy+%7C+Early+Riser+%7C+Deep+Thinker" alt="Typing SVG" />
@@ -23,9 +23,10 @@
 - 🎤 Creative Storytelling & Performance Art
 
 ### 📫 How to reach me:
-- 📧 Email: [kyule.musindi@example.com](mailto:kyule.musindi@example.com)
-- 💼 LinkedIn: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/kyulemusindi)
-- 🐦 Twitter: [@keed_astrol](https://twitter.com/keed_astrol)
+- 📧 Email: [juastonekyule@gmail.com](mailto:juastonekyule@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/musindi-kyule-juastone-astro)
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="musindi-kyule-juastone-astro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/musindi-kyule-juastone-astro?trk=profile-badge">Musindi Kyule</a></div>
+              
 
 ### 😄 Pronouns:
 - He/Him
