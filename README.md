@@ -60,9 +60,11 @@
 ### 🎶 Currently Listening To:
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31oiz77vdaazaa4yx5wwckv4zg4e?si=6aa27ac425294a21">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oiz77vdaazaa4yx5wwckv4zg4e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </p>
 
----
+
 
 Feel free to connect and collaborate! Let's build something amazing together. 🚀
