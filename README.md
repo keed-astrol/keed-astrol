@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Nairobi, Kenya • Electrical Engineering Professional
+  Nairobi, Kenya • Electrical Engineering Student
 </p>
 
 ---
