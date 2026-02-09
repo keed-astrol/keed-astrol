@@ -1,68 +1,71 @@
-<h1 align="center">Hey there 👋, I'm keed_astro (@keed-astrol)</h1>
+<h1 align="center">Keed Astro (@keed-astro)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=0000FF&center=true&vCenter=true&width=780&lines=👨‍💻+Electrical+%26+Computer+Engineering+Student;🌍+From+Kenya%2C+based+in+Philly;🎭+Poet+%7C+Actor+%7C+AI+Enthusiast;🎶+Afrobeats+%7C+Hans+Zimmer+%7C+Eminem;🧹+Tidy+%7C+Early+Riser+%7C+Deep+Thinker;👨‍💻+Electronics+Hobbyist+%7C+Arduino+%7C+ESP+%7C+Jetson+Nano;⚙️+Control+Systems+%7C+Embedded+Systems" alt="Typing SVG Animation" />
+  <strong>Electrical & Electronics Engineer</strong> • Embedded Systems • Robotics • Power Systems Analysis
 </p>
 
-
-### 👀 I'm interested in:
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ Renewable Energy Technologies
-- 🎭 Performing Arts & Creative Writing
-- 🌐 Tech for Social Impact
-
-### 🌱 I'm currently learning:
-- 🧠 Deep Learning with TensorFlow & PyTorch
-- 🔌 Embedded Systems & IoT Development
-- 📈 Data Visualization & Analytics
-
-### 💞️ I'm looking to collaborate on:
-- 🧪 Innovative AI Projects
-- 🌿 Sustainable Tech Solutions
-- 🎤 Creative Storytelling & Performance Art
-
-### 📫 How to reach me:
-- 📧 Email: [juastonekyule@gmail.com](mailto:juastonekyule@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/musindi-kyule-juastone-astro)
-
-
-### 😄 Pronouns:
-- He/Him
-
-### ⚡ Fun fact:
-- I prefer pilau with chapati over mayonnaise any day! 🇰🇪
-
----
-
-### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keed-astrol&show_icons=true&theme=radical" alt="GitHub Stats" />
+  Nairobi, Kenya • Electrical Engineering Professional
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+Electrical engineer with deep expertise in embedded firmware, autonomous systems, control theory, and power systems simulation.  
+Strong focus on first-principles reasoning, mathematical modeling (linear algebra, projective geometry, computational geometry), and bridging clean theory with real-world hardware.
+
+Current areas of work & interest:
+- High-altitude rocketry & propulsion systems (Nakuja/N-4 program contributor mindset)
+- ROS2-based autonomous robotics & Jetson Nano deployment
+- Power systems modeling & analysis (ETAP, PSS/E)
+- Packet queuing & network simulation (C++20, custom simulators)
+- Developing a first-principles scientific/mathematical inference engine grounded in fundamental physical laws
 
 ---
 
-### 🎶 Currently Listening To:
+### Technical Skills
+
+**Languages**  
+C/C++ • Python • Rust (learning)
+
+**Embedded & Hardware**  
+ARM Cortex • ESP32/ESP8266 • Jetson Nano • Arduino • Bare-metal programming • RTOS • HAL drivers
+
+**Frameworks & Tools**  
+ROS2 • CMake • Git • Linux kernel modules • TensorFlow Lite / PyTorch (edge inference)
+
+**Engineering Software**  
+ETAP • PSS/E • MATLAB/Simulink • LTspice • KiCad • Altium (exposure)
+
+**Mathematics & Theory**  
+Linear Algebra • Euclidean & Projective Geometry • Probability & Stochastic Processes • Control Systems • Computational Geometry • Transformations & Kinematics
+
+---
+
+### Currently Working On
+
+- Custom packet queue simulator (FIFO/Priority) — performance & scheduling study
+- First-principles inference engine — symbolic/physical-law reasoning with minimal training data
+- ROS2-based autonomous navigation stack optimizations
+
+---
+
+### Contact & Professional Profiles
+
+- **Email**: juastonekyule@gmail.com  
+- **LinkedIn**: [linkedin.com/in/kyulemusindi](https://www.linkedin.com/in/musindi-kyule-juastone-astro)
+
+Open to serious collaborations in embedded systems, robotics, power engineering, or mathematically grounded autonomous projects.
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31oiz77vdaazaa4yx5wwckv4zg4e?si=6aa27ac425294a21">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31oiz77vdaazaa4yx5wwckv4zg4e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31oiz77vdaazaa4yx5wwckv4zg4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=keed-astro&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
 
-
-
-Feel free to connect and collaborate! Let's build something amazing together. 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keed-astro&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
