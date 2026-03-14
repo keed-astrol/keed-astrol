@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Kyule+Musindi+%40keed-astro;Electrical+%26+Electronics+Engineer; Embedded+Systems+%7C+Robotics+%7C+Power+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Kyule+Musindi+%40keed-astro;Electrical+%26+Electronics+Engineer;Embedded+Systems+%7C+Robotics+%7C+Power+Systems" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-BD93F9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=282a36" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-50fa7b?style=for-the-badge&logo=handshake&logoColor=white&labelColor=282a36" />
@@ -70,13 +69,13 @@ Strong focus on first-principles reasoning, mathematical modeling (linear algebr
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 | Project | Description | Status |
 |---|---|---|
-| 📦 **Packet Queue Simulator** | Custom FIFO/Priority queue — performance & scheduling study in C++20 | 🟡 In Progress |
-| 🔬 **First-Principles Inference Engine** | Symbolic/physical-law reasoning with minimal training data | 🟡 In Progress |
-| 🤖 **ROS2 Nav Stack** | Autonomous navigation stack optimizations on Jetson Nano | 🟡 In Progress |
+|  **Packet Queue Simulator** | Custom FIFO/Priority queue — performance & scheduling study in C++20 | 🟡 In Progress |
+|  **First-Principles Inference Engine** | Symbolic/physical-law reasoning with minimal training data | 🟡 In Progress |
+|  **ROS2 Nav Stack** | Autonomous navigation stack optimizations on Jetson Nano | 🟡 In Progress |
 
 ---
 
@@ -89,15 +88,12 @@ Strong focus on first-principles reasoning, mathematical modeling (linear algebr
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/BD93F9/keed-astro" alt="keed-astro GitHub Contribution Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keed-astro&show_icons=true&theme=dracula&hide_border=true" alt="keed-astro GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=keed-astro&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keed-astro&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
 ## Contact & Collaboration
 
 <p align="center">
