@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:FF79C6,100:FFB86C&height=200&section=header&text=Kyule%20Musindi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Electrical%20%26%20Electronics%20Engineering&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:FF79C6,100:FFB86C&height=200&section=header&text=Kyule%20Musindi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Electrical%20and%20Electronics%20Engineering&descAlignY=58&descSize=18" width="100%" alt="Header" />
 </p>
 
 <p align="center">
