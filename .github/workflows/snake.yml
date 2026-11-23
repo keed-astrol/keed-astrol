@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # refresh twice a day
+    - cron: "17 * * * *"     # refresh every hour from your live contribution data
   workflow_dispatch:         # lets you run it by hand from the Actions tab
   push:
     branches: [main]
@@ -15,13 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Draw the multi-year snake
+        env:
+          # Uses a personal token if you add one as a secret named SNAKE_TOKEN,
+          # otherwise the built-in token.
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN || secrets.GITHUB_TOKEN }}
+        # Shows the current year and the two before it (2024, 2025, 2026 right now).
+        # To pin specific years instead, add e.g.:  --years 2024 2025 2026
+        run: python3 .github/scripts/snake_years.py --user ${{ github.repository_owner }} --out dist
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
